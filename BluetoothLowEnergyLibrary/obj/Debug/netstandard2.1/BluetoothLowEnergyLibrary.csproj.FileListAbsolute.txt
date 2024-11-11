@@ -1,0 +1,10 @@
+D:\code\C#\BluetoothLowEnergyLibrary\BluetoothLowEnergyLibrary\bin\Debug\netstandard2.1\BluetoothLowEnergyLibrary.deps.json
+D:\code\C#\BluetoothLowEnergyLibrary\BluetoothLowEnergyLibrary\bin\Debug\netstandard2.1\BluetoothLowEnergyLibrary.dll
+D:\code\C#\BluetoothLowEnergyLibrary\BluetoothLowEnergyLibrary\bin\Debug\netstandard2.1\BluetoothLowEnergyLibrary.pdb
+D:\code\C#\BluetoothLowEnergyLibrary\BluetoothLowEnergyLibrary\obj\Debug\netstandard2.1\BluetoothLowEnergyLibrary.csproj.AssemblyReference.cache
+D:\code\C#\BluetoothLowEnergyLibrary\BluetoothLowEnergyLibrary\obj\Debug\netstandard2.1\BluetoothLowEnergyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\BluetoothLowEnergyLibrary\BluetoothLowEnergyLibrary\obj\Debug\netstandard2.1\BluetoothLowEnergyLibrary.AssemblyInfoInputs.cache
+D:\code\C#\BluetoothLowEnergyLibrary\BluetoothLowEnergyLibrary\obj\Debug\netstandard2.1\BluetoothLowEnergyLibrary.AssemblyInfo.cs
+D:\code\C#\BluetoothLowEnergyLibrary\BluetoothLowEnergyLibrary\obj\Debug\netstandard2.1\BluetoothLowEnergyLibrary.csproj.CoreCompileInputs.cache
+D:\code\C#\BluetoothLowEnergyLibrary\BluetoothLowEnergyLibrary\obj\Debug\netstandard2.1\BluetoothLowEnergyLibrary.dll
+D:\code\C#\BluetoothLowEnergyLibrary\BluetoothLowEnergyLibrary\obj\Debug\netstandard2.1\BluetoothLowEnergyLibrary.pdb
