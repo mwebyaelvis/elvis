@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BluetoothLowEnergyLibraryTest
-build_property.ProjectDir = D:\code\C#\BluetoothLowEnergyLibrary\BluetoothLowEnergyLibraryTest\
+build_property.ProjectDir = C:\Users\HP\Desktop\elvis\BluetoothLowEnergyLibraryTest\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BluetoothLowEnergyLibraryTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2eabc8c325c73b959dcf33e345e844bec58de745")]
 [assembly: System.Reflection.AssemblyProductAttribute("BluetoothLowEnergyLibraryTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BluetoothLowEnergyLibraryTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
